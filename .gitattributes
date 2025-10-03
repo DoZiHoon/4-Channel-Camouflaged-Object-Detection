@@ -1,1 +1,2 @@
+발표_최종_프로젝트 filter=lfs diff=lfs merge=lfs -text
 *.pptx filter=lfs diff=lfs merge=lfs -text
