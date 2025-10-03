@@ -1,0 +1,9 @@
+train: ../../../datasets/RGBIR/images/rgb
+val: ../../../datasets/RGBIR/images/rgb_val
+thermal: ../../../datasets/RGBIR/images/thermal
+
+names:
+  0: person
+  1: animal
+
+channels: 4
