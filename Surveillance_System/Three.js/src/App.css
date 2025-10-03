@@ -1,0 +1,56 @@
+﻿/* App.tsx 최상위 컨테이너를 relative 로 바꿔줍니다 */
+.app {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+/* 3D 캔버스 영역 */
+.canvas-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 0.4s ease;
+    transform: translateX(0);
+}
+
+    .canvas-container.shift {
+        transform: translateX(300px);
+    }
+
+/* 사이드바는 absolute 로 꺼내버립니다. */
+.sidebar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100%;
+    background: #222;
+    color: #fff;
+    /* 닫혀 있을 땐 화면 왼쪽 바깥으로 숨김 */
+    transform: translateX(-100%);
+    transition: transform 0.4s ease;
+    padding: 1rem;
+    box-sizing: border-box;
+    z-index: 10;
+}
+
+    .sidebar.open {
+        /* 열리면 제자리(0)로 */
+        transform: translateX(0);
+    }
+
+/* App.css (또는 Sidebar.css) */
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+}
+
+.video-container {
+    flex: 1; /* 남은 높이를 모두 채우게 */
+    margin: 1rem 0; /* 제목/버튼 사이 여백 */
+    background: #000; /* 로딩 중 검정 배경 */
+    overflow: hidden;
+}

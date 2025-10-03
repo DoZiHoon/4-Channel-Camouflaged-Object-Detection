@@ -1,0 +1,2036 @@
+[
+  {
+    "time": "2025-06-18 17:05:12",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_170505_003211.mp4"
+  },
+  {
+    "time": "2025-06-18 17:05:12",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_170505_237338.mp4"
+  },
+  {
+    "time": "2025-06-18 17:11:11",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_171107_100902.mp4"
+  },
+  {
+    "time": "2025-06-18 17:11:13",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_171106_940666.mp4"
+  },
+  {
+    "time": "2025-06-18 17:11:32",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_171130_802868.mp4"
+  },
+  {
+    "time": "2025-06-18 17:11:39",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_171132_685817.mp4"
+  },
+  {
+    "time": "2025-06-18 17:11:52",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_171151_357106.mp4"
+  },
+  {
+    "time": "2025-06-18 17:12:04",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_171158_271151.mp4"
+  },
+  {
+    "time": "2025-06-18 17:12:19",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_171212_800684.mp4"
+  },
+  {
+    "time": "2025-06-18 17:12:31",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_171224_668354.mp4"
+  },
+  {
+    "time": "2025-06-18 17:12:41",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_171237_699269.mp4"
+  },
+  {
+    "time": "2025-06-18 17:24:53",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_172446_275762.mp4"
+  },
+  {
+    "time": "2025-06-18 17:24:53",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_172446_192136.mp4"
+  },
+  {
+    "time": "2025-06-18 17:29:03",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_172856_717542.mp4"
+  },
+  {
+    "time": "2025-06-18 17:29:03",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_172856_785280.mp4"
+  },
+  {
+    "time": "2025-06-18 17:33:25",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_173317_923462.mp4"
+  },
+  {
+    "time": "2025-06-18 17:33:25",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_173317_967805.mp4"
+  },
+  {
+    "time": "2025-06-18 17:37:07",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_173702_374697.mp4"
+  },
+  {
+    "time": "2025-06-18 17:37:10",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_173703_706623.mp4"
+  },
+  {
+    "time": "2025-06-18 17:41:01",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_174055_291396.mp4"
+  },
+  {
+    "time": "2025-06-18 17:41:05",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_174058_689576.mp4"
+  },
+  {
+    "time": "2025-06-18 17:41:25",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_174119_356318.mp4"
+  },
+  {
+    "time": "2025-06-18 17:41:29",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_174122_821818.mp4"
+  },
+  {
+    "time": "2025-06-18 17:41:49",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_174143_339679.mp4"
+  },
+  {
+    "time": "2025-06-18 17:41:53",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_174146_967604.mp4"
+  },
+  {
+    "time": "2025-06-18 17:42:18",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_174211_707150.mp4"
+  },
+  {
+    "time": "2025-06-18 17:42:24",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_174218_868687.mp4"
+  },
+  {
+    "time": "2025-06-18 17:42:37",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_174233_870657.mp4"
+  },
+  {
+    "time": "2025-06-18 17:43:10",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_174306_890023.mp4"
+  },
+  {
+    "time": "2025-06-18 17:50:48",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175043_564984.mp4"
+  },
+  {
+    "time": "2025-06-18 17:50:51",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_175045_038411.mp4"
+  },
+  {
+    "time": "2025-06-18 17:51:15",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175108_156333.mp4"
+  },
+  {
+    "time": "2025-06-18 17:51:18",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175112_141825.mp4"
+  },
+  {
+    "time": "2025-06-18 17:51:43",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175136_044588.mp4"
+  },
+  {
+    "time": "2025-06-18 17:51:45",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175137_806235.mp4"
+  },
+  {
+    "time": "2025-06-18 17:52:09",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175203_005833.mp4"
+  },
+  {
+    "time": "2025-06-18 17:52:12",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175204_873296.mp4"
+  },
+  {
+    "time": "2025-06-18 17:52:37",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175230_081952.mp4"
+  },
+  {
+    "time": "2025-06-18 17:52:39",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175232_177347.mp4"
+  },
+  {
+    "time": "2025-06-18 17:53:04",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175257_160542.mp4"
+  },
+  {
+    "time": "2025-06-18 17:53:06",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175259_059094.mp4"
+  },
+  {
+    "time": "2025-06-18 17:53:31",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175324_105628.mp4"
+  },
+  {
+    "time": "2025-06-18 17:53:33",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175325_922635.mp4"
+  },
+  {
+    "time": "2025-06-18 17:53:58",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175350_973778.mp4"
+  },
+  {
+    "time": "2025-06-18 17:54:00",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175352_907128.mp4"
+  },
+  {
+    "time": "2025-06-18 17:54:25",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175418_445556.mp4"
+  },
+  {
+    "time": "2025-06-18 17:54:28",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175420_377081.mp4"
+  },
+  {
+    "time": "2025-06-18 17:54:53",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175445_973134.mp4"
+  },
+  {
+    "time": "2025-06-18 17:54:55",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175447_811075.mp4"
+  },
+  {
+    "time": "2025-06-18 17:55:20",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175513_139911.mp4"
+  },
+  {
+    "time": "2025-06-18 17:55:22",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175514_958491.mp4"
+  },
+  {
+    "time": "2025-06-18 17:55:46",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_175546_029440.mp4"
+  },
+  {
+    "time": "2025-06-18 17:55:47",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_175540_607510.mp4"
+  },
+  {
+    "time": "2025-06-18 17:55:50",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250618_175542_575984.mp4"
+  },
+  {
+    "time": "2025-06-18 18:04:37",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_180433_910780.mp4"
+  },
+  {
+    "time": "2025-06-18 18:04:38",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_180434_961798.mp4"
+  },
+  {
+    "time": "2025-06-18 18:12:52",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_181245_584180.mp4"
+  },
+  {
+    "time": "2025-06-18 18:12:52",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_181245_650958.mp4"
+  },
+  {
+    "time": "2025-06-18 18:19:56",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_181956_230147.mp4"
+  },
+  {
+    "time": "2025-06-18 18:19:56",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_181955_882143.mp4"
+  },
+  {
+    "time": "2025-06-18 18:20:02",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_181955_597301.mp4"
+  },
+  {
+    "time": "2025-06-18 18:20:20",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_182014_565461.mp4"
+  },
+  {
+    "time": "2025-06-18 18:20:29",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_182022_598870.mp4"
+  },
+  {
+    "time": "2025-06-18 18:20:43",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_182037_510763.mp4"
+  },
+  {
+    "time": "2025-06-18 18:20:55",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_182048_881770.mp4"
+  },
+  {
+    "time": "2025-06-18 18:21:06",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_182100_482117.mp4"
+  },
+  {
+    "time": "2025-06-18 18:21:21",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_182114_943047.mp4"
+  },
+  {
+    "time": "2025-06-18 18:21:29",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250618_182123_566017.mp4"
+  },
+  {
+    "time": "2025-06-18 18:36:48",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:36:48",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:37:09",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_183702_770665.mp4"
+  },
+  {
+    "time": "2025-06-18 18:37:09",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_183702_837925.mp4"
+  },
+  {
+    "time": "2025-06-18 18:37:09",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:37:09",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:37:34",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_183727_678049.mp4"
+  },
+  {
+    "time": "2025-06-18 18:37:34",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_183727_693650.mp4"
+  },
+  {
+    "time": "2025-06-18 18:38:00",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_183752_878674.mp4"
+  },
+  {
+    "time": "2025-06-18 18:38:00",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_183752_944326.mp4"
+  },
+  {
+    "time": "2025-06-18 18:38:24",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_183818_988607.mp4"
+  },
+  {
+    "time": "2025-06-18 18:43:47",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:43:47",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:44:08",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_184402_399370.mp4"
+  },
+  {
+    "time": "2025-06-18 18:44:08",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_184402_483276.mp4"
+  },
+  {
+    "time": "2025-06-18 18:44:09",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:44:09",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:48:05",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:48:05",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:48:26",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250618_184820_100439.mp4"
+  },
+  {
+    "time": "2025-06-18 18:48:26",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250618_184820_265886.mp4"
+  },
+  {
+    "time": "2025-06-18 18:48:27",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-18 18:48:27",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 13:54:45",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 13:54:45",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 13:54:57",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_135450_395931.mp4"
+  },
+  {
+    "time": "2025-06-22 13:54:57",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_135450_353283.mp4"
+  },
+  {
+    "time": "2025-06-22 13:54:57",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 13:54:57",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 13:54:59",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:01:27",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:01:27",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:01:38",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140132_220663.mp4"
+  },
+  {
+    "time": "2025-06-22 14:01:38",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:01:38",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140132_303521.mp4"
+  },
+  {
+    "time": "2025-06-22 14:01:38",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:01:49",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140143_019096.mp4"
+  },
+  {
+    "time": "2025-06-22 14:01:49",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140143_074806.mp4"
+  },
+  {
+    "time": "2025-06-22 14:01:59",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140153_561648.mp4"
+  },
+  {
+    "time": "2025-06-22 14:01:59",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140153_617884.mp4"
+  },
+  {
+    "time": "2025-06-22 14:02:06",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140203_265822.mp4"
+  },
+  {
+    "time": "2025-06-22 14:02:06",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140203_333620.mp4"
+  },
+  {
+    "time": "2025-06-22 14:02:17",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140210_647771.mp4"
+  },
+  {
+    "time": "2025-06-22 14:02:17",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140210_607242.mp4"
+  },
+  {
+    "time": "2025-06-22 14:02:28",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140222_575274.mp4"
+  },
+  {
+    "time": "2025-06-22 14:02:28",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140222_617848.mp4"
+  },
+  {
+    "time": "2025-06-22 14:02:49",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:02:49",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:03:01",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140253_513408.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:01",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:03:01",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140253_533588.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:01",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:03:14",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140307_677024.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:14",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140307_917165.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:25",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140319_034591.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:25",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140319_218189.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:36",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140329_906103.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:36",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140330_083609.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:45",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140341_109857.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:45",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140341_302584.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:53",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140349_691860.mp4"
+  },
+  {
+    "time": "2025-06-22 14:03:53",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140349_573712.mp4"
+  },
+  {
+    "time": "2025-06-22 14:04:04",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140357_458679.mp4"
+  },
+  {
+    "time": "2025-06-22 14:09:32",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:09:32",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:09:43",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_140936_364442.mp4"
+  },
+  {
+    "time": "2025-06-22 14:09:43",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140936_356833.mp4"
+  },
+  {
+    "time": "2025-06-22 14:09:43",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:09:43",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:09:47",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:09:52",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/clips/cam2_thermal\\20250622_140949_568900.mp4"
+  },
+  {
+    "time": "2025-06-22 14:09:52",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:09:55",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_140949_756164.mp4"
+  },
+  {
+    "time": "2025-06-22 14:16:51",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:16:51",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:17:02",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_141655_915154.mp4"
+  },
+  {
+    "time": "2025-06-22 14:17:02",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_141655_888922.mp4"
+  },
+  {
+    "time": "2025-06-22 14:18:20",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:18:20",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:18:31",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_141825_015903.mp4"
+  },
+  {
+    "time": "2025-06-22 14:18:31",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_141825_007779.mp4"
+  },
+  {
+    "time": "2025-06-22 14:18:31",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:18:32",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:18:45",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_141838_225611.mp4"
+  },
+  {
+    "time": "2025-06-22 14:18:45",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_141838_339374.mp4"
+  },
+  {
+    "time": "2025-06-22 14:22:29",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:22:29",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:56:59",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:57:03",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_145701_233278.mp4"
+  },
+  {
+    "time": "2025-06-22 14:57:05",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:57:08",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:57:11",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_145709_677994.mp4"
+  },
+  {
+    "time": "2025-06-22 14:57:33",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:57:34",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_145733_869100.mp4"
+  },
+  {
+    "time": "2025-06-22 14:57:36",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:57:38",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_145737_438766.mp4"
+  },
+  {
+    "time": "2025-06-22 14:57:40",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:57:42",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_145741_126553.mp4"
+  },
+  {
+    "time": "2025-06-22 14:57:47",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:57:48",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_145747_592474.mp4"
+  },
+  {
+    "time": "2025-06-22 14:57:51",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 14:58:13",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_145753_811377.mp4"
+  },
+  {
+    "time": "2025-06-22 14:58:20",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:15:44",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:15:45",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_151545_601627.mp4"
+  },
+  {
+    "time": "2025-06-22 15:15:46",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:15:48",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:15:49",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151548_865730.mp4"
+  },
+  {
+    "time": "2025-06-22 15:15:56",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:15:57",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151556_930009.mp4"
+  },
+  {
+    "time": "2025-06-22 15:15:57",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:15:58",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151558_106146.mp4"
+  },
+  {
+    "time": "2025-06-22 15:15:58",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:15:59",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151559_134701.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:00",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:00",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151600_661253.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:01",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:02",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151602_604506.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:05",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:18",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151617_406778.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:19",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:21",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_151619_045544.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:22",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:22",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_151622_709526.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:24",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_151623_536505.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:24",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:36",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:37",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151636_901758.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:44",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:44",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151644_773129.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:45",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:46",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151645_945389.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:46",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_151646_354330.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:46",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:47",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151646_955655.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:48",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:48",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151648_437020.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:49",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:16:50",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151650_375310.mp4"
+  },
+  {
+    "time": "2025-06-22 15:16:53",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:17:06",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151704_955041.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:06",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:17:11",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151710_819566.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:11",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 15:17:22",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_151719_607891.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:23",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_151723_220375.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:24",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151723_956431.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:31",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151731_774894.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:33",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151732_936616.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:34",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151733_933975.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:35",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151735_402152.mp4"
+  },
+  {
+    "time": "2025-06-22 15:17:37",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/clips/cam1_thermal\\20250622_151737_316961.mp4"
+  },
+  {
+    "time": "2025-06-22 18:01:58",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:01:58",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_180158_742558.mp4"
+  },
+  {
+    "time": "2025-06-22 18:01:59",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:01",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:02",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180201_993164.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:09",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:10",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180210_027024.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:10",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:11",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180211_207353.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:11",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:12",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180212_232465.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:13",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:13",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180213_737488.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:14",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:15",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180215_687255.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:18",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:31",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180230_563820.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:32",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:34",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_180232_083329.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:35",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:02:35",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_180235_521668.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:37",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180236_670518.mp4"
+  },
+  {
+    "time": "2025-06-22 18:02:37",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:01",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:02",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_180302_025655.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:02",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:04",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:05",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180305_251490.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:13",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:13",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180313_366670.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:14",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:14",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180314_547173.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:15",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:15",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180315_571866.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:16",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:17",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180317_094828.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:18",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:19",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180319_062054.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:21",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:35",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180334_000544.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:35",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:38",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_180335_804680.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:39",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:39",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_180339_519293.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:40",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180340_326884.mp4"
+  },
+  {
+    "time": "2025-06-22 18:03:41",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:03:54",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180354_000639.mp4"
+  },
+  {
+    "time": "2025-06-22 18:04:02",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180401_915788.mp4"
+  },
+  {
+    "time": "2025-06-22 18:04:03",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180403_073563.mp4"
+  },
+  {
+    "time": "2025-06-22 18:04:03",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_180403_143265.mp4"
+  },
+  {
+    "time": "2025-06-22 18:04:04",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180404_091352.mp4"
+  },
+  {
+    "time": "2025-06-22 18:04:05",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180405_575841.mp4"
+  },
+  {
+    "time": "2025-06-22 18:04:07",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180407_498406.mp4"
+  },
+  {
+    "time": "2025-06-22 18:06:25",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:06:28",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:06:37",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:06:38",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:39",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:40",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_180739_887473.mp4"
+  },
+  {
+    "time": "2025-06-22 18:07:40",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:42",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:43",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180743_163769.mp4"
+  },
+  {
+    "time": "2025-06-22 18:07:49",
+    "cam": "cam2_thermal",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:49",
+    "cam": "cam2_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:51",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:51",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180751_231241.mp4"
+  },
+  {
+    "time": "2025-06-22 18:07:52",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:52",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180752_416162.mp4"
+  },
+  {
+    "time": "2025-06-22 18:07:53",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:53",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180753_458335.mp4"
+  },
+  {
+    "time": "2025-06-22 18:07:54",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:55",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180754_974060.mp4"
+  },
+  {
+    "time": "2025-06-22 18:07:55",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:57",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_180756_933728.mp4"
+  },
+  {
+    "time": "2025-06-22 18:07:58",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:58",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:58",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:58",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:58",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:58",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:07:59",
+    "cam": "cam1_thermal",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:11:17",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 18:11:20",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 22:13:35",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb/20250622_221334_863564.mp4"
+  },
+  {
+    "time": "2025-06-22 22:13:38",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221338_110087.mp4"
+  },
+  {
+    "time": "2025-06-22 22:13:46",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221346_199303.mp4"
+  },
+  {
+    "time": "2025-06-22 22:13:47",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221347_376753.mp4"
+  },
+  {
+    "time": "2025-06-22 22:13:48",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221348_408001.mp4"
+  },
+  {
+    "time": "2025-06-22 22:13:50",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221349_918505.mp4"
+  },
+  {
+    "time": "2025-06-22 22:13:52",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221351_851954.mp4"
+  },
+  {
+    "time": "2025-06-22 22:14:07",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221406_512140.mp4"
+  },
+  {
+    "time": "2025-06-22 22:14:11",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb/20250622_221408_247672.mp4"
+  },
+  {
+    "time": "2025-06-22 22:14:12",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb/20250622_221412_455429.mp4"
+  },
+  {
+    "time": "2025-06-22 22:14:12",
+    "cam": "cam4_rgb",
+    "label": "animal",
+    "clip": "/clips/cam4_rgb/20250622_221409_102367.mp4"
+  },
+  {
+    "time": "2025-06-22 22:14:13",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb/20250622_221412_938571.mp4"
+  },
+  {
+    "time": "2025-06-22 22:16:31",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_221631_374315.mp4"
+  },
+  {
+    "time": "2025-06-22 22:16:34",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221634_666436.mp4"
+  },
+  {
+    "time": "2025-06-22 22:16:42",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221642_737914.mp4"
+  },
+  {
+    "time": "2025-06-22 22:16:44",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221643_924130.mp4"
+  },
+  {
+    "time": "2025-06-22 22:16:45",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221644_949138.mp4"
+  },
+  {
+    "time": "2025-06-22 22:16:46",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221646_455889.mp4"
+  },
+  {
+    "time": "2025-06-22 22:16:48",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221648_411844.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:04",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221703_391327.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:08",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_221704_944235.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:09",
+    "cam": "cam4_rgb",
+    "label": "animal",
+    "clip": "/clips/cam4_rgb\\20250622_221705_719810.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:09",
+    "cam": "cam2_rgb",
+    "label": "person",
+    "clip": "/clips/cam2_rgb\\20250622_221709_153758.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:10",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221709_673776.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:23",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221722_899814.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:30",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221730_834620.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:32",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221732_001274.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:32",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_221732_342996.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:33",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221733_044266.mp4"
+  },
+  {
+    "time": "2025-06-22 22:17:34",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_221734_545996.mp4"
+  },
+  {
+    "time": "2025-06-22 22:22:13",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/clips/cam2_rgb\\20250622_222212_878837.mp4"
+  },
+  {
+    "time": "2025-06-22 22:22:16",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/clips/cam1_rgb\\20250622_222216_116719.mp4"
+  },
+  {
+    "time": "2025-06-22 22:22:49",
+    "cam": "cam4_rgb",
+    "label": "animal",
+    "clip": "/clips/cam4_rgb\\20250622_222246_964251.mp4"
+  },
+  {
+    "time": "2025-06-22 22:30:10",
+    "cam": "cam2_rgb",
+    "label": "animal",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 22:30:13",
+    "cam": "cam1_rgb",
+    "label": "person",
+    "clip": "/"
+  },
+  {
+    "time": "2025-06-22 22:30:16",
+    "cam": "cam4_rgb",
+    "label": "animal",
+    "clip": "/"
+  }
+]
