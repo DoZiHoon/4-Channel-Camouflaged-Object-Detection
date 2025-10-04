@@ -1,9 +1,0 @@
-train: ../../../datasets/RGBIR/images/rgb
-val: ../../../datasets/RGBIR/images/rgb_val
-test: ../../../datasets/RGBIR/images/rgb_test
-thermal: ../../../datasets/RGBIR/images/thermal
-
-nc: 2
-names: ["person", "animal"]
-
-channels: 4
